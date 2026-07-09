@@ -39,6 +39,11 @@ To start the lab go to azure.microsoft.com (https://azure.microsoft.com/en-gb/ge
 
  The operating system for the virtual machine is a windows 10 and for the size* it must have 2vcpus and 8GB of RAM anything lower the virtual machine is going to be very slow.
 
+
+ <img width="752" height="1256" alt="image" src="https://github.com/user-attachments/assets/be487303-63a7-4605-a5a1-36a72982d5b2" />
+
+ Create a user name and password for the virtual machine ,NOTE: before leaving the basic tab check the box under licensing. then click next and when you get to networking allow it to create its own virtual network then click review and create and then create and then it is finally created it should look ilke the image above.
+
  
 
 <p>
