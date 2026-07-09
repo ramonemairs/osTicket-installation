@@ -47,7 +47,7 @@ To start the lab go to azure.microsoft.com (https://azure.microsoft.com/en-gb/ge
 
  <img width="1172" height="720" alt="Screenshot 2026-07-06 at 1 51 50 PM" src="https://github.com/user-attachments/assets/8f182f7c-e39f-4e33-9c02-dfc6f8875ed9" /> 
 
-The next step is to login to virtual machine so first go to the search bar and type VM scroll to the side and look for the public IP address.Now download and open up remote desktop copy the public ip address from the virtual machine go back into remote desktop click the plus button and add new PC then copy the ip .
+The next step is to login to virtual machine so first go to the search bar and type VM scroll to the side and look for the public IP address.Now download and open up remote desktop copy the public ip address from the virtual machine go back into remote desktop click the plus button and add new PC then copy the ip type in the username and password then hit enter.
 
  
 
