@@ -49,6 +49,11 @@ To start the lab go to azure.microsoft.com (https://azure.microsoft.com/en-gb/ge
 
 The next step is to login to virtual machine so first go to the search bar and type VM scroll to the side and look for the public IP address.Now download and open up remote desktop copy the public ip address from the virtual machine go back into remote desktop click the plus button and add new PC then copy the ip type in the username and password then hit enter.
 
- 
+
+<img width="2284" height="1244" alt="image" src="https://github.com/user-attachments/assets/25398d6d-d0f6-4204-a608-82bd61166d95" />
+
+After connecting to the virtual machine in remote desktop go to Microsoft edge and download osTicket installation files ( [
+](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) the go into files find the osTicket files and unzip the files you do that by right clicks the mouse and press extract all.
+
 
  
