@@ -32,25 +32,33 @@ This tutorial outlines step by step how to install the open-source help desk tic
 
 <img width="596" height="1006" alt="image" src="https://github.com/user-attachments/assets/0ca28ff1-8d7e-4584-90d5-435791a53077" />
 
+
 To start the lab go to azure.microsoft.com (https://azure.microsoft.com/en-gb/get-started/azure-portal) create an accout then go to the search bar and type virtual machines or (VM) and click create new virtual machine , name the virtual machine osTicket-vm and set the region to east US 2 or east US .
 
 
 <img width="748" height="1258" alt="image" src="https://github.com/user-attachments/assets/508fd20b-d6d7-42a0-a894-90cbb7e83851" />
+
+
 
  The operating system for the virtual machine is a windows 10 and for the size* it must have 2vcpus and 8GB of RAM anything lower the virtual machine is going to be very slow.
 
 
  <img width="752" height="1256" alt="image" src="https://github.com/user-attachments/assets/be487303-63a7-4605-a5a1-36a72982d5b2" />
 
+ 
+
  Create a user name and password for the virtual machine ,NOTE: before leaving the basic tab check the box under licensing. Then click next and when you get to networking allow it to create its own virtual network then click review and create then create , When it is finally created it should look like the image above.
 
 
  <img width="1172" height="720" alt="Screenshot 2026-07-06 at 1 51 50 PM" src="https://github.com/user-attachments/assets/8f182f7c-e39f-4e33-9c02-dfc6f8875ed9" /> 
 
+ 
+
 The next step is to login to virtual machine so first go to the search bar and type VM scroll to the side and look for the public IP address, Now download and open up remote desktop copy the public ip address from the virtual machine go back into remote desktop click the plus button and add new PC then copy the ip address, then type in the username and password then hit enter to login.
 
 
 <img width="2284" height="1244" alt="image" src="https://github.com/user-attachments/assets/45ac7d73-736b-477a-bec3-1901aa317c1c" />
+
 
 
 After connecting to the virtual machine in remote desktop go to Microsoft edge and download osTicket installation files ( [
@@ -59,14 +67,18 @@ After connecting to the virtual machine in remote desktop go to Microsoft edge a
 
 <img width="2302" height="1214" alt="image" src="https://github.com/user-attachments/assets/ffc0d9f4-e85e-4e1b-a6ca-e1805d8a9aca" />
 
+
+
 after downloading and unzipping the file its time to enable IIS internet Information Services , so first click the start menu and type control panel open it and go to programs ( click uninstall programs ) then click ( turn windows features on or off ) then scroll to internet Information Services (IIS) ,  check the box then expand it go to ( world wide web services) expand that and go to application development features epand that aswell and then search for CGI and check that box then close it. 
 
 
  <img width="2272" height="1210" alt="image" src="https://github.com/user-attachments/assets/59332012-6579-45c8-b0ea-4fcfdee5fae8" />
+ 
 
 
  Now it time to enable PHP first go to the folders then go to the osTicket installation folder that is unzipped , go to PHP manager and install it.
 
  
+
 
 
