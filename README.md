@@ -57,7 +57,7 @@ After connecting to the virtual machine in remote desktop go to Microsoft edge a
 ](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) then go into files find the osTicket files and unzip the files, you do that by right clicking the mouse and press extract all.
 
 
-<img width="2302" height="1214" alt="image" src="https://github.com/user-attachments/assets/164fbf6d-4f61-42d7-ac6b-63a9161c0940" /
+<img width="2302" height="1214" alt="image" src="https://github.com/user-attachments/assets/ffc0d9f4-e85e-4e1b-a6ca-e1805d8a9aca" />
 
 after downloading and unzipping the file its time to enable IIS internet Information Services , so first click the start menu and type control panel open it and go to programs ( click uninstall programs ) then click ( turn windows features on or off ) then scroll to internet Information Services (IIS) ,  check the box then expand it go to ( world wide web services) expand that and go to application development features epand that aswell and then search for CGI and check that box then close it. 
 
