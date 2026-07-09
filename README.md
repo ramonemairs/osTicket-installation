@@ -21,7 +21,7 @@ This tutorial that  outlines step by step how to install the open-source help de
 <h2>List of Prerequisites</h2>
 
 - Setup a virtual machine in Azure
-- Install the windows app
+- Install the Remote desktop
 - Intall the osTicket requirements
 - Install osTicket itself
 - Do the after-installation configuration of osTicket
