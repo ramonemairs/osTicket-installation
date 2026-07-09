@@ -33,11 +33,13 @@ This tutorial outlines step by step how to install the open-source help desk tic
 <img width="596" height="1006" alt="image" src="https://github.com/user-attachments/assets/0ca28ff1-8d7e-4584-90d5-435791a53077" />
 
 To start the lab go to azure.microsoft.com (https://azure.microsoft.com/en-gb/get-started/azure-portal) create an accout then go to the search bar and type virtual machines or (VM) and click create new virtual machine , name the the virtual machine osTicket-vm and set the region to east US 2 or east US .
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+
+<img width="748" height="1258" alt="image" src="https://github.com/user-attachments/assets/508fd20b-d6d7-42a0-a894-90cbb7e83851" />
+
+ The operating system for the virtual machine is a windows 10 and for the size* it must have 2vcpus and 8GB of RAM anything lower the virtual machine is going to be very slow.
+
+ 
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
