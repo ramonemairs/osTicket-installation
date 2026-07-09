@@ -22,7 +22,7 @@ This tutorial outlines step by step how to install the open-source help desk tic
 
 - Setup a virtual machine in Azure
 - Install the Remote desktop
-- Intall the osTicket requirements
+- Install the osTicket requirements
 - Install osTicket itself
 - Do the after-installation configuration of osTicket
 - Explore osTicket as a Help Desk professional 
