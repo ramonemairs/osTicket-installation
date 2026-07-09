@@ -32,7 +32,7 @@ This tutorial outlines step by step how to install the open-source help desk tic
 
 <img width="596" height="1006" alt="image" src="https://github.com/user-attachments/assets/0ca28ff1-8d7e-4584-90d5-435791a53077" />
 
-To start the lab go to azure.microsoft.com (https://azure.microsoft.com/en-gb/get-started/azure-portal) create an accout then go to the search bar and type virtual machines or (VM) and click create new virtual machine , name the the virtual machine osTicket-vm and set the region to east US 2 or east US .
+To start the lab go to azure.microsoft.com (https://azure.microsoft.com/en-gb/get-started/azure-portal) create an accout then go to the search bar and type virtual machines or (VM) and click create new virtual machine , name the virtual machine osTicket-vm and set the region to east US 2 or east US .
 
 
 <img width="748" height="1258" alt="image" src="https://github.com/user-attachments/assets/508fd20b-d6d7-42a0-a894-90cbb7e83851" />
@@ -47,18 +47,20 @@ To start the lab go to azure.microsoft.com (https://azure.microsoft.com/en-gb/ge
 
  <img width="1172" height="720" alt="Screenshot 2026-07-06 at 1 51 50 PM" src="https://github.com/user-attachments/assets/8f182f7c-e39f-4e33-9c02-dfc6f8875ed9" /> 
 
-The next step is to login to virtual machine so first go to the search bar and type VM scroll to the side and look for the public IP address.Now download and open up remote desktop copy the public ip address from the virtual machine go back into remote desktop click the plus button and add new PC then copy the ip type in the username and password then hit enter.
+The next step is to login to virtual machine so first go to the search bar and type VM scroll to the side and look for the public IP address, Now download and open up remote desktop copy the public ip address from the virtual machine go back into remote desktop click the plus button and add new PC then copy the ip address, then type in the username and password then hit enter to login.
 
 
 <img width="2284" height="1244" alt="image" src="https://github.com/user-attachments/assets/25398d6d-d0f6-4204-a608-82bd61166d95" />
 
 After connecting to the virtual machine in remote desktop go to Microsoft edge and download osTicket installation files ( [
-](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) the go into files find the osTicket files and unzip the files you do that by right clicks the mouse and press extract all.
+](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) then go into files find the osTicket files and unzip the files, you do that by right clicking the mouse and press extract all.
 
 
 <img width="2302" height="1214" alt="image" src="https://github.com/user-attachments/assets/164fbf6d-4f61-42d7-ac6b-63a9161c0940" /
 
-after downloading and unzipping the file its time to enable IIS internet Information Services , so first click the start menu and type control panel open it and go to programs ( click uninstall programs ) then click ( turn windows features on or off ) then scroll to internet Information Services (IIS) , so check the box then expand it go to ( world wide web services) expand that and go to application development features epand that aswell ans the search for CGI and check that box click on then close. 
+after downloading and unzipping the file its time to enable IIS internet Information Services , so first click the start menu and type control panel open it and go to programs ( click uninstall programs ) then click ( turn windows features on or off ) then scroll to internet Information Services (IIS) ,  check the box then expand it go to ( world wide web services) expand that and go to application development features epand that aswell and then search for CGI and check that box then close it. 
 
 
  
+
+
