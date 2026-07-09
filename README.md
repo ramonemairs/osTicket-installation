@@ -32,7 +32,7 @@ This tutorial outlines step by step how to install the open-source help desk tic
 
 <img width="596" height="1006" alt="image" src="https://github.com/user-attachments/assets/0ca28ff1-8d7e-4584-90d5-435791a53077" />
 
-To start the lab go to [](https://azure.microsoft.com/en-gb/get-started/azure-portal) create an accout and the go to the search bar and type virtual machines or (VM) and click create new virtual machine , name the the virtual machine osTicket-vm and set the region to east US 2 or east US .
+To start the lab go to azure.microsoft.com (https://azure.microsoft.com/en-gb/get-started/azure-portal) create an accout and the go to the search bar and type virtual machines or (VM) and click create new virtual machine , name the the virtual machine osTicket-vm and set the region to east US 2 or east US .
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
