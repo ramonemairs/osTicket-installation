@@ -79,6 +79,8 @@ after downloading and unzipping the file its time to enable IIS internet Informa
  Now it time to enable PHP first go to the folders then go to the osTicket installation folder that is unzipped , go to PHP manager and install it.
 
  
+<img width="2288" height="1314" alt="image" src="https://github.com/user-attachments/assets/f3e2eb26-78ba-439b-80f8-1229f1f63ef9" />
 
+after installing PHP install rewrite module.
 
 
