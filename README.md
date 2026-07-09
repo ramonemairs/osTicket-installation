@@ -28,7 +28,6 @@ This tutorial outlines step by step how to install the open-source help desk tic
 - Explore osTicket as a Help Desk professional 
 
 <h2>Installation Steps</h2>
-
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
