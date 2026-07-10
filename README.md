@@ -62,21 +62,21 @@ The next step is to login to virtual machine so first go to the search bar and t
 
 
 After connecting to the virtual machine in remote desktop go to Microsoft edge and download osTicket installation files ( [
-](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) then go into files find the osTicket files and unzip the files, you do that by right clicking the mouse and press extract all.
+](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) then go into files or folder find the osTicket files and unzip the files, you do that by right clicking the mouse and press extract all.
 
 
 <img width="2302" height="1214" alt="image" src="https://github.com/user-attachments/assets/ffc0d9f4-e85e-4e1b-a6ca-e1805d8a9aca" />
 
 
 
-after downloading and unzipping the file its time to enable IIS internet Information Services , so first click the start menu and type control panel open it and go to programs ( click uninstall programs ) then click ( turn windows features on or off ) then scroll to internet Information Services (IIS) ,  check the box then expand it go to ( world wide web services) expand that and go to application development features epand that aswell and then search for CGI and check that box then close it. 
+after downloading and unzipping the file its time to enable IIS internet Information Services , so first click the start menu and type control panel open it and go to programs ( click uninstall programs ) then click ( turn windows features on or off ) then scroll to internet Information Services (IIS) ,  check the box then expand it go to ( world wide web services) expand that and go to application development features expand that aswell and then search for CGI and check that box then close it. 
 
 
  <img width="2272" height="1210" alt="image" src="https://github.com/user-attachments/assets/59332012-6579-45c8-b0ea-4fcfdee5fae8" />
  
 
 
- Now it time to enable PHP first go to the folders then go to the osTicket installation folder that is unzipped , go to PHP manager and install it.
+ Now it time to install  PHP manager first go to the folders then go to the osTicket installation folder that is unzipped , go to PHP manager and install it.
 
  
 <img width="2288" height="1314" alt="image" src="https://github.com/user-attachments/assets/f3e2eb26-78ba-439b-80f8-1229f1f63ef9" />
@@ -86,7 +86,7 @@ after installing PHP install rewrite module.
 
 <img width="2342" height="1234" alt="image" src="https://github.com/user-attachments/assets/9e52502e-985f-482a-8e4f-3141c35c2718" />
 
-Next create a folder on you C drive and call it PHP , go to file or folder and look to the left where desktop and downloaded is scroll down to the C drive click it then once in the C drive right click scroll down to new click the folder and name it PHP.
+Next create a folder on you C drive and call it PHP , go to file or folder  look to the left where desktop and downloaded is scroll down to the C drive click it then once in the C drive right click scroll down to new click the folder and name it PHP.
 
 
 
