@@ -122,4 +122,10 @@ Now go back to the osticket installation folder and upzip/extract osTicket-v1.15
 Now go to the start or windows button and search for IIS right click it and click run as administrator once in restart it ,at the top left go to connections under it click the small arrow beside osticket to expand it then do the same for sites then once expanded click osticket look to the right under manage folder you should see ( Browse*80*) click that to open osticket in the browser 
 
 
+
+<img width="2288" height="1580" alt="image" src="https://github.com/user-attachments/assets/961a186e-5da5-4a32-abce-a172dc419887" />
+
+
+When you open osticket installer you can observed that there are a few prerequisites that or not ticked so to enable those extensions go back to IIS go to sites then default site then osticket and double click PHP manager then under PHP Extension go to enabled or disabled an extension and enable (php_imap.dll,php_intl.dll and php_opcache.dll ) you mite have to scroll for a while and to enable the just right the and click eable now if you go back to the osticket installer you should see some of the prerequisites ticked.  
+
 <img width="2352" height="1622" alt="image" src="https://github.com/user-attachments/assets/f0a9386f-feb3-430c-9e34-1c4803c01b33" />
