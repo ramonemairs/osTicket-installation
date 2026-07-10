@@ -114,7 +114,7 @@ once in IIS  go to PHP manager double check it click regester a new PHP version 
 
 
 <img width="1824" height="1148" alt="image" src="https://github.com/user-attachments/assets/240c6365-ce8b-4fce-b12f-fda3bba89e32" />
-
+<img width="2542" height="1266" alt="image" src="https://github.com/user-attachments/assets/8394df0e-051f-433e-b497-7d98ab71c261" />
 
 Now go back to the osticket installation folder and upzip/extract osTicket-v1.15.8 , the open a new folder ( if you don't know how to open a fresh folder just right click the folder a the bottom of the screen and click file explorer ) now go to the C drive the go to inetpub then wwwroot the minimize that folder and in the next folder double click the osticket unzip files and drag the upload folder to the wwwroot. after moving the folder rename the upload folder to (osTicket) make sure its spelt like that , to rename it just right click the upload folder and click rename 
 
