@@ -102,6 +102,9 @@ Then go back to the osticket unzipped files and install VC_redist.
 
 <img width="2074" height="1330" alt="image" src="https://github.com/user-attachments/assets/4751e6da-714a-4cc5-9e56-6ada644b962c" />
 
-Next download MYSQL5.5.62 when installing  it use (typical) as your setup click install after it is installed check the box that says launch the MYSQL instance configuration wizard , then click next and check standard configuration then click next until you get to the security option for the password its ( root) PLEASE NOTE  : this is just for the lab never do this is for any serious work or personal passwords. after typing root both times click next and then click execute after the file is created click finish.
+Next download MYSQL5.5.62 when installing  it use (typical) as your setup click install after it is installed check the box that says launch the MYSQL instance configuration wizard , then click next and check standard configuration then click next until you get to the security option,  the password is  ( root) PLEASE NOTE  : this is just for the lab never do this  for any serious work or personal passwords. after typing root both times click next and then click execute after the file is created click finish.
+
+
+
 
 
