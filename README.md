@@ -128,4 +128,7 @@ Now go to the start or windows button and search for IIS right click it and clic
 
 When you open osticket installer you can observed that there are a few prerequisites that or not ticked so to enable those extensions go back to IIS go to sites then default site then osticket and double click PHP manager then under PHP Extension go to enabled or disabled an extension and enable (php_imap.dll,php_intl.dll and php_opcache.dll ) you mite have to scroll for a while and to enable the just right the and click eable now if you go back to the osticket installer you should see some of the prerequisites ticked.  
 
-<img width="2352" height="1622" alt="image" src="https://github.com/user-attachments/assets/f0a9386f-feb3-430c-9e34-1c4803c01b33" />
+
+
+
+
