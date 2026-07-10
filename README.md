@@ -84,3 +84,15 @@ after downloading and unzipping the file its time to enable IIS internet Informa
 after installing PHP install rewrite module.
 
 
+<img width="2342" height="1234" alt="image" src="https://github.com/user-attachments/assets/9e52502e-985f-482a-8e4f-3141c35c2718" />
+
+Next create a folder on you C drive and call it PHP , go to file or folder and look to the left where desktop and downloaded is scroll down to the C drive click it then once in the C drive right click scroll down to new click the folder and name it PHP.
+
+
+
+<img width="2566" height="1458" alt="image" src="https://github.com/user-attachments/assets/b754b238-a4f2-490f-ab52-21ff5ce46bca" />
+
+Now minimize the folder you have open and open a next folder and go to the osticket unzip files and unzip PHP into the folder you just made. first right click  the PHP zip folder and click extract all now before clicking extract look to the right and click browse now scroll down and look for the C drive and then click PHP then select and now you can go ahead and click extract all.
+
+
+
