@@ -106,5 +106,10 @@ Next download MYSQL5.5.62 when installing  it use (typical) as your setup click 
 
 
 
+<img width="2876" height="1800" alt="image" src="https://github.com/user-attachments/assets/167a66c1-8ddd-4c87-b35e-5320e1c41d9e" />
+
+Now it time to register  PHP ,so first go to start menu and type IIS open IIS as a admin you can right click IIS and click run as administrator 
+once in IIS  go to PHP manager double check it click regester a new PHP version when the box pops up click browse  (browse would be the 3 dots like this ...) once you click the 3 dots go to the C drive go to the PHP  folder and open it the click PHP.CGI which is the binary execute for PHP so double click it and click ok after restart the IIS ( look to the upper right under actions under manage server and you should see restart ,start and stop)
+
 
 
