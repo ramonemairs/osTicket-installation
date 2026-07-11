@@ -120,7 +120,7 @@ Now go back to the osticket installation folder and upzip/extract osTicket-v1.15
 
 
 <img width="2352" height="1622" alt="image" src="https://github.com/user-attachments/assets/9270e708-4ac5-4720-bbad-2ee2fb0aae63" />
-
+<img width="2352" height="1622" alt="image" src="https://github.com/user-attachments/assets/e3aafe74-8ae8-4681-b8d1-31965b4a3df7" />
 
 Now go to the start or windows button and search for IIS right click it and click run as administrator once in restart it ,at the top left go to connections under it click the small arrow beside osticket to expand it then do the same for sites then once expanded click osticket look to the right under manage folder you should see ( Browse*80*) click that to open osticket in the browser 
 
@@ -130,6 +130,20 @@ Now go to the start or windows button and search for IIS right click it and clic
 
 
 When you open osticket installer you can observed that there are a few prerequisites that or not ticked so to enable those extensions go back to IIS go to sites then default site then osticket and double click PHP manager then under PHP Extension go to enabled or disabled an extension and enable (php_imap.dll,php_intl.dll and php_opcache.dll ) you mite have to scroll for a while and to enable the just right the and click eable now if you go back to the osticket installer you should see some of the prerequisites ticked.  
+
+
+
+<img width="1178" height="1064" alt="image" src="https://github.com/user-attachments/assets/de28b67c-b790-4358-9c4c-244c314ca88f" />
+
+
+now go to your folder or reopen a new  folder go to C drive once in C dive go to inetpub then wwwroot then osTicket then include then scroll down until you see ost-sampleconfig.php once you have found it right click it and rename it to (ost-config.php) please dont mess the name up not even a letter.
+
+
+
+<img width="2812" height="1670" alt="image" src="https://github.com/user-attachments/assets/44043ae8-f86a-4d44-96cf-a7cf026f430e" />
+
+
+After renaming the file right click the folder and click properties then go to security the go to advanced the disabled inheritance and click remove all inherited permissions from this object then add new permission and then click select  principal then type everyone and click check names then click ok then check the full control box then click apply and ok.
 
 
 
