@@ -168,6 +168,18 @@ Now go back to browser and setup osticket enter the details for helpdesk URL, ad
 
 
 
+<img width="2864" height="772" alt="image" src="https://github.com/user-attachments/assets/86544518-d69c-47ed-a340-080210d3bc70" />
+<img width="2862" height="1014" alt="image" src="https://github.com/user-attachments/assets/001874b9-807b-454c-95df-5521fe499569" />
+
+if everything goes well the lab is now completed feel free to observe both links 
+[
+](http://localhost/osTicket/scp/login.php)
+[
+](http://localhost/osTicket/)
+
+one link it use osticke as an admin or agent and the next one is to use osticket as an user feel free to create tickets and solve them as an agent.
 
 
+[
+](http://localhost/osTicket/scp/login.php)
 
