@@ -86,7 +86,7 @@ after installing PHP install rewrite module.
 
 <img width="2342" height="1234" alt="image" src="https://github.com/user-attachments/assets/9e52502e-985f-482a-8e4f-3141c35c2718" />
 
-Next create a folder on you C drive and call it PHP , go to file or folder  look to the left where desktop and downloaded is scroll down to the C drive click it then once in the C drive right click scroll down to new click the folder and name it PHP.
+Next create a folder on you C drive and call it PHP , go to file or folder  look to the left where desktop and downloaded is scroll down to the C drive click it then once in the C drive right click and click  new  folder and name it PHP.
 
 
 
@@ -109,14 +109,14 @@ Next download MYSQL5.5.62 when installing  it use (typical) as your setup click 
 <img width="2876" height="1800" alt="image" src="https://github.com/user-attachments/assets/167a66c1-8ddd-4c87-b35e-5320e1c41d9e" />
 
 Now it time to register  PHP ,so first go to start menu and type IIS open IIS as a admin you can right click IIS and click run as administrator 
-once in IIS  go to PHP manager double check it click regester a new PHP version when the box pops up click browse  (browse would be the 3 dots like this ...) once you click the 3 dots go to the C drive go to the PHP  folder and open it the click PHP.CGI which is the binary execute for PHP so double click it and click ok after restart the IIS ( look to the upper right under actions under manage server and you should see restart ,start and stop)
+once in IIS  go to PHP manager double check it click regester a new PHP version when the box pops up click browse  (browse would be the 3 dots like this ...) once you click the 3 dots go to the C drive go to the PHP  folder and open it the click PHP.CGI which is the binary execute for PHP so double click it and click ok after that  restart the IIS ( look to the upper right under actions under manage server and you should see restart ,start and stop).
 
 
 
 <img width="1824" height="1148" alt="image" src="https://github.com/user-attachments/assets/240c6365-ce8b-4fce-b12f-fda3bba89e32" />
 <img width="2542" height="1266" alt="image" src="https://github.com/user-attachments/assets/8394df0e-051f-433e-b497-7d98ab71c261" />
 
-Now go back to the osticket installation folder and upzip/extract osTicket-v1.15.8 , the open a new folder ( if you don't know how to open a fresh folder just right click the folder a the bottom of the screen and click file explorer ) now go to the C drive the go to inetpub then wwwroot the minimize that folder and in the next folder double click the osticket unzip files and drag the upload folder to the wwwroot. after moving the folder rename the upload folder to (osTicket) make sure its spelt like that , to rename it just right click the upload folder and click rename 
+Now go back to the osticket installation folder and upzip/extract osTicket-v1.15.8 ,  open a new folder ( if you don't know how to open a fresh folder just right click the folder at the bottom of the screen and click file explorer ) now go to the C drive then go to inetpub then wwwroot then minimize that folder and in the next folder double click the osticket unzip files and drag the upload folder to the wwwroot. after moving the folder rename the upload folder to (osTicket) make sure its spelt like that , to rename it just right click the upload folder and click rename 
 
 
 <img width="2352" height="1622" alt="image" src="https://github.com/user-attachments/assets/9270e708-4ac5-4720-bbad-2ee2fb0aae63" />
