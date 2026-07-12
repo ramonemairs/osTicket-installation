@@ -116,7 +116,7 @@ once in IIS  go to PHP manager double check it click regester a new PHP version 
 <img width="1824" height="1148" alt="image" src="https://github.com/user-attachments/assets/240c6365-ce8b-4fce-b12f-fda3bba89e32" />
 <img width="2542" height="1266" alt="image" src="https://github.com/user-attachments/assets/8394df0e-051f-433e-b497-7d98ab71c261" />
 
-Now go back to the osticket installation folder and upzip/extract osTicket-v1.15.8 ,  open a new folder ( if you don't know how to open a fresh folder just right click the folder at the bottom of the screen and click file explorer ) now go to the C drive then go to inetpub then wwwroot then minimize that folder and in the next folder double click the osticket unzip files and drag the upload folder to the wwwroot. after moving the folder rename the upload folder to (osTicket) make sure its spelt like that , to rename it just right click the upload folder and click rename 
+Now go back to the osticket installation folder and upzip/extract osTicket-v1.15.8 ,then open a new folder ( if you don't know how to open a fresh folder just right click the folder at the bottom of the screen and click file explorer ) now go to the C drive then go to inetpub then wwwroot then minimize that folder and in the next folder double click the osticket unzip files and drag the upload folder to the wwwroot. after moving the folder rename the upload folder to (osTicket) make sure its spelt like that , to rename it just right click the upload folder and click rename 
 
 
 <img width="2352" height="1622" alt="image" src="https://github.com/user-attachments/assets/9270e708-4ac5-4720-bbad-2ee2fb0aae63" />
@@ -129,7 +129,7 @@ Now go to the start or windows button and search for IIS right click it and clic
 <img width="2288" height="1580" alt="image" src="https://github.com/user-attachments/assets/961a186e-5da5-4a32-abce-a172dc419887" />
 
 
-When you open osticket installer you can observed that there are a few prerequisites that or not ticked so to enable those extensions go back to IIS go to sites then default site then osticket and double click PHP manager then under PHP Extension go to enabled or disabled an extension and enable (php_imap.dll,php_intl.dll and php_opcache.dll ) you mite have to scroll for a while and to enable the just right the and click eable now if you go back to the osticket installer you should see some of the prerequisites ticked.  
+When you open osticket installer you can observed that there are a few prerequisites that or not ticked so to enable those extensions go back to IIS go to sites then default site then osticket and double click PHP manager then under PHP Extension go to enabled or disabled an extension and enable (php_imap.dll,php_intl.dll and php_opcache.dll ) you mite have to scroll for a while and to enable them just right click and click eable now if you go back to the osticket installer you should see some of the prerequisites ticked.  
 
 
 
@@ -144,20 +144,20 @@ down until you see ost-sampleconfig.php once you have found it right click it an
 <img width="2812" height="1670" alt="image" src="https://github.com/user-attachments/assets/44043ae8-f86a-4d44-96cf-a7cf026f430e" />
 
 
-After renaming the file right click the folder and click properties then go to security the go to advanced the disabled inheritance and click remove all inherited permissions from this object then add new permission and then click select  principal then type everyone and click check names then click ok then check the full control box then click apply and ok.  
+After renaming the file right click the folder and click properties then go to security then go to advanced then disabled inheritance and click remove all inherited permissions from this object then add new permission and then click select  principal then type everyone and click check names then click ok then check the full control box then click apply and ok.  
 
 
 <img width="1846" height="1376" alt="image" src="https://github.com/user-attachments/assets/e12d1c43-e423-4b53-a4b2-67962be72755" />
 
 
-Now its to go to Heidi SQL and create a database to run osticket , first open the folder and go to the osticket installation files once in the file look for heidi SQL and double check it and click next for everything and then install the once install check the box that says launch Heidi SQL and click finish.
+Now go to Heidi SQL and create a database to run osticket , first open the folder and go to the osticket installation files once in the file look for heidi SQL and double check it and click next for everything and then install  once installed  check the box that says launch Heidi SQL and click finish.
 
 
 
 <img width="1878" height="1180" alt="image" src="https://github.com/user-attachments/assets/4d743628-2a41-42b2-b2d1-993c5262a5db" />
 
 
-After launching  Heidi SQL look to the botton of the screen and click new ,when it is created look to the right where users and password and type (root) for both then click open then once opened look at the top left where unnamed is or the dolphin sign right click that and rename it to (osTicket) make sure its spelt exactly like that then click ok.
+After launching  Heidi SQL look to the botton of the screen and click new ,when it is created look to the right where users and password is and type (root) for both, then click open then once opened look at the top left where unnamed is or the dolphin sign right click that and rename it to (osTicket) make sure its spelt exactly like that then click ok.
 
 
 
@@ -177,7 +177,7 @@ if everything goes well the lab is now completed feel free to observe both links
 [
 ](http://localhost/osTicket/)
 
-one link it use osticke as an admin or agent and the next one is to use osticket as an user feel free to create tickets and solve them as an agent.
+one link it use osticket as an admin or agent and the next one is to use osticket as an user feel free to create tickets and solve them as an agent.
 
 
 [
