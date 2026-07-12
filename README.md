@@ -136,14 +136,36 @@ When you open osticket installer you can observed that there are a few prerequis
 <img width="1178" height="1064" alt="image" src="https://github.com/user-attachments/assets/de28b67c-b790-4358-9c4c-244c314ca88f" />
 
 
-now go to your folder or reopen a new  folder go to C drive once in C dive go to inetpub then wwwroot then osTicket then include then scroll down until you see ost-sampleconfig.php once you have found it right click it and rename it to (ost-config.php) please dont mess the name up not even a letter.
+now go to your folder or reopen a new  folder go to C drive once in C dive go to inetpub then wwwroot then osTicket then include then scroll 
+down until you see ost-sampleconfig.php once you have found it right click it and rename it to (ost-config.php) please dont mess the name up not even a letter.
 
 
 
 <img width="2812" height="1670" alt="image" src="https://github.com/user-attachments/assets/44043ae8-f86a-4d44-96cf-a7cf026f430e" />
 
 
-After renaming the file right click the folder and click properties then go to security the go to advanced the disabled inheritance and click remove all inherited permissions from this object then add new permission and then click select  principal then type everyone and click check names then click ok then check the full control box then click apply and ok.
+After renaming the file right click the folder and click properties then go to security the go to advanced the disabled inheritance and click remove all inherited permissions from this object then add new permission and then click select  principal then type everyone and click check names then click ok then check the full control box then click apply and ok.  
+
+
+<img width="1846" height="1376" alt="image" src="https://github.com/user-attachments/assets/e12d1c43-e423-4b53-a4b2-67962be72755" />
+
+
+Now its to go to Heidi SQL and create a database to run osticket , first open the folder and go to the osticket installation files once in the file look for heidi SQL and double check it and click next for everything and then install the once install check the box that says launch Heidi SQL and click finish.
+
+
+
+<img width="1878" height="1180" alt="image" src="https://github.com/user-attachments/assets/4d743628-2a41-42b2-b2d1-993c5262a5db" />
+
+
+After launching  Heidi SQL look to the botton of the screen and click new ,when it is created look to the right where users and password and type (root) for both then click open then once opened look at the top left where unnamed is or the dolphin sign right click that and rename it to (osTicket) make sure its spelt exactly like that then click ok.
+
+
+
+<img width="2856" height="1540" alt="image" src="https://github.com/user-attachments/assets/b1fa9eb7-b775-4d74-9ac1-7a78b9b99a38" />
+
+
+Now go back to browser and setup osticket enter the details for helpdesk URL, admin user and database settings , PLEASE NOTE: for helpdesk and admin user you can make it up just remember your username and password. for the database part the MYSQL database is  (osTicket)  and for the MYSQL username and password its (root) then click install now.
+
 
 
 
